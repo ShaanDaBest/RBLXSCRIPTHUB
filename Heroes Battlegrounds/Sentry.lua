@@ -48,5 +48,6 @@ local Slider = PlayerTab:CreateSlider({
     Suffix = "WS",
     CurrentValue = 16,
     Flag = "WSslider",
-    Callback = function(ws)
-       workspace.live.localPlayer.humanoid.walkSpeed = ws
+    Callback = function(a)
+      game.workspace.live.localPlayer.humanoid.walkSpeed = a
+
