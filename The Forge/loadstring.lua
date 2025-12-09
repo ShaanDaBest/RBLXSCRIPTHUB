@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ShaanDaBest/RBLXSCRIPTHUB/refs/heads/main/The%20Forge/haze.lua"))()
+loadstring(game:HttpGet("https://haze.wtf/api/script"))()
